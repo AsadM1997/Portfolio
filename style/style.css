@@ -66,13 +66,26 @@ a{
 strong{
     color: var(--clr-indigo);
 }
-.header__line{
-    border: 1px solid var(--clr-slate600);
-    padding-top: 1.5em ;
+
+
+/*xs  */
+/* @media(min-width:475px){
+
+} */
+/* sm */
+/* @media(min-width:640px){
+   
+} */
+/* lg */
+@media(min-width:768px){
+   
 }
-.header__sun{
-    display: block;
-    color: var(--clr-slate600);
-    width: var(--size-base);
-    height: var(--size-base);
-}
+/* xl */
+/* @media(min-width:1024px){
+   
+} */
+/* 2xl */
+/* @media(min-width:1536px){
+   
+} */
+
